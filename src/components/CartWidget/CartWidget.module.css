@@ -1,0 +1,13 @@
+.containerCart {
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.cartImage {
+    height: 30px;
+}
+
+.cartQuantity {
+    color: white;
+}

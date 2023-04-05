@@ -1,0 +1,17 @@
+.containerNavbar{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(204, 209, 203);
+    position: sticky;
+	border-bottom-left-radius: 1% 10%;
+	border-bottom-right-radius: 1% 10%;
+	overflow: hidden;
+}
+
+img {
+    padding-left: 10px;
+    align-self: center;
+    height: 9vh;
+}
